@@ -1,0 +1,20 @@
+
+body {
+    line-height: 1.5;
+    background-color: #ddd;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex section {
+    background-color: white;
+    border: 1px solid black;
+}
+
+section img {
+    margin-bottom: 10px;
+
+}
